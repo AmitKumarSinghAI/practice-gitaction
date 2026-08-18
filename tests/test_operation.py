@@ -6,3 +6,4 @@ def test_mul():
     assert mul(2,2) == 4
     assert mul(2,1) == 2
     assert mul(2,0) == 0
+    assert mul(2,10) == 20
